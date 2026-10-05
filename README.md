@@ -15,7 +15,7 @@
 
 * Clone this repository to your local machine:
 `
-git clone https://github.com/Object-ions/domArrayMethods.git
+git clone https://github.com/switchcasestudio/domArrayMethods.git
 `
 * Navigate to the project directory.
 * Open the file in the browser.
